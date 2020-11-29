@@ -22,7 +22,7 @@ const App = () => {
   }
   return(
     <View>
-      <Text>keep it up</Text>
+      <Text>keep it up, da fak</Text>
     </View>
   );
 };
